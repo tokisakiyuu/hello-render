@@ -15,5 +15,6 @@
   },
   "devDependencies": {
     "@types/koa": "^2.15.0"
-  }
+  },
+  "packageManager": "^pnpm@9.5.0"
 }
